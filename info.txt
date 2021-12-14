@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Enigma__2
+font link: https://www.fontsquirrel.com/fonts/Enigmatic
+font author: Objets Dart
+font author site: http://www.objetsdart.ca
+
+
+icon designer: Chris Kerr
+icon designer link: /chrisk3rr
+        
+{"bg":"#132554","icon":"#00A3DD","font":"#ffffff","slogan":"#ffffff"}
+      
